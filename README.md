@@ -1,6 +1,6 @@
 # GPT-2-fine-tuning
 
-No tenemos suficientes datos como para entrenar desde 0 al algoritmo GPT-2. Por ello, utilizaremos el algoritmo GPT-2 entrenado en inglés (por el momento) para después implementar de alguna manera el poder pasarle archivos .txt nuestros y entrenarlo más a fondo con tantos archivos como le metamos.
+Actualmente hemos entrenado el algoritmo GPT-2 en español y con un archivo .txt, a pesar de esto no se le puede preguntar directamente las cosas, tiene que devolver una continuación de una frase que le pases.
 
 Hemos encontrado la siguiente página web que consta de una librería de python la cual facilita mucho el código para entrenar el algoritmo GPT-2 (la versión más simplificada del algoritmo): https://docs.aitextgen.io/tutorials/hello-world/
 
